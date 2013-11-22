@@ -1,7 +1,7 @@
 R_BlurView
 =================
 
-R_BlurView is a UIView class which creates a blurred view based on UIToolbar.
+R_BlurView is a UIView class which creates a blurred view, based on UIToolbar.
 
 Usage
 -------------
@@ -15,7 +15,7 @@ Usage
     //Set dark blur style
     [blurView setBlurStyle:UIBarStyleBlackTranslucent]; //you can change style to UIBarStyleDefault for light blur style (optional)
     
-    //Set black and white blur (optional)
+    //Set black&white blur (optional)
     [blurView setBlurTintColor:[UIColor clearColor]];
 
     //Dealloc
