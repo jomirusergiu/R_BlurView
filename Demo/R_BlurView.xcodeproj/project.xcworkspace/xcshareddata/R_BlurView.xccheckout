@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B23693D6-84B1-4392-9C84-E34469785510</string>
+	<key>IDESourceControlProjectName</key>
+	<string>R_BlurView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B7C1DB4-DB99-4688-BD4F-002A8DF9892F</key>
+		<string>https://github.com/RocKK-MD/R_BlurView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/R_BlurView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B7C1DB4-DB99-4688-BD4F-002A8DF9892F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RocKK-MD/R_BlurView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B7C1DB4-DB99-4688-BD4F-002A8DF9892F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B7C1DB4-DB99-4688-BD4F-002A8DF9892F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>R_BlurView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
